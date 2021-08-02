@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mushahidshaikh
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Front End Development And User Interface Design
 - 💞️ I’m looking to collaborate on Web Project
 
